@@ -1,7 +1,7 @@
-script/generate redeemable (ModelName)
+rails g redeemable (ModelName)
 
 Example:
 
-script/generate redeemable Coupon
+rails g redeemable Coupon
 
 This will create a Coupon model 
