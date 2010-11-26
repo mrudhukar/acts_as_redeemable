@@ -7,7 +7,7 @@ h2. Usage
 
 h3.  Optionally generate the model 
 
-  script/generate redeemable Coupon
+  rails g redeemable Coupon
   rake db:migrate
 
  
